@@ -7,7 +7,7 @@ igrok2 = input('Second player name  ')
 summ1 = 0
 summ2 = 0
 
-for i in range(1):
+for i in range(5):
 #First player game
     print('Rolls the dice', igrok1)
     time.sleep(2)
